@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjunyung1496)](https://solved.ac/sjunyung1496/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sjunyung1496&theme=warm)
+![Junyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy0128&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy0128&layout=compact)
